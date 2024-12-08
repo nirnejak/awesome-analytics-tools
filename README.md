@@ -1,4 +1,6 @@
-# Awesome Analytics Tools
+<h1 align="center">
+  # Awesome Analytics Tools
+</h1>
 
 ### Web & SEO Analytics
 
