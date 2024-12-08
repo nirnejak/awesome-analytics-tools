@@ -1,5 +1,5 @@
 <h1 align="center">
-  # Awesome Analytics Tools
+  Awesome Analytics Tools
 </h1>
 
 ### Web & SEO Analytics
