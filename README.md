@@ -2,7 +2,7 @@
 
 ## Internal Tools
 
-[Dataland](https://dataland.io)
+[Dataland](https://dataland.io \_blank)
 
 ## Business Analytics
 
