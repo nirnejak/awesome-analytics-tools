@@ -1,5 +1,17 @@
 # Awesome Analytics Tools
 
+## Web & SEO Analytics
+
+- [Ubersuggest](https://app.neilpatel.com/en/dashboard)
+- [Semrush](https://www.semrush.com/)
+- [Ahrefs](https://ahrefs.com/)
+- [Moz](https://moz.com/)
+- [Wope](https://wope.com/)
+- [Plausible Analytics](https://plausible.io/)
+- [Pirsch](https://pirsch.io/)
+- [Umami](https://umami.is/)
+- [Ackee](https://ackee.electerious.com/)
+
 ## Internal Tools
 
 - [Dataland](https://dataland.io)
