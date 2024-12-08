@@ -1,6 +1,6 @@
 # Awesome Analytics Tools
 
-## Web & SEO Analytics
+### Web & SEO Analytics
 
 - [Ubersuggest](https://app.neilpatel.com/en/dashboard)
 - [Semrush](https://www.semrush.com/)
@@ -12,7 +12,7 @@
 - [Umami](https://umami.is/)
 - [Ackee](https://ackee.electerious.com/)
 
-## Internal Tools
+### Internal Tools
 
 - [Dataland](https://dataland.io)
 - [Cube](https://cube.dev)
@@ -25,7 +25,7 @@
 - [Appsmith](https://www.appsmith.com)
 - [Basedash](https://www.basedash.com)
 
-## Business Analytics
+### Business Analytics
 
 - [Carto](https://carto.com/)
 - [Sundial](https://sundial.so/)
@@ -43,7 +43,7 @@
 - [Mode](https://mode.com/)
 - [Preset](https://preset.io/)
 
-## ETL and Reverse ETL
+### ETL and Reverse ETL
 
 - [Sequin](https://www.sequin.io/)
 - [Weld](https://weld.app/)
@@ -69,7 +69,7 @@
 - [Improvado](https://improvado.io/)
 - [n8n](https://n8n.io/)
 
-## Notebooks and Sheets
+### Notebooks and Sheets
 
 - [Rows](https://rows.com/)
 - [Equals](https://equals.com/)
@@ -80,7 +80,7 @@
 - [Deepnote](https://deepnote.com/)
 - [Count](https://count.co/)
 
-## Embedded Analytics
+### Embedded Analytics
 
 - [BoldBI](https://www.boldbi.com/)
 - [Explo](https://www.explo.co/)
