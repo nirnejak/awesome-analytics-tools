@@ -46,6 +46,7 @@
 - [Mode](https://mode.com/)
 - [Preset](https://preset.io/)
 
+- [NeewP](https://neewp.com/)
 ### ETL and Reverse ETL
 
 - [Sequin](https://www.sequin.io/)
